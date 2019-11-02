@@ -1,4 +1,4 @@
-FROM centos
+FROM centos:7
 
 # install openssh-server and sudo package
 # set sshd UsePAM to no
